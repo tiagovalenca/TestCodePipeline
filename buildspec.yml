@@ -14,5 +14,5 @@ artifacts:
   files:
     - src/*
   discard-paths: yes
-  base-directory: python-example
+  base-directory: .
   name: python-app-$(date +%Y-%m-%d-%H-%M-%S).zip
